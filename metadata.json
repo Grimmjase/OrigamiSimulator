@@ -1,0 +1,8 @@
+{
+  "name": "Origami Simulator",
+  "description": "Real-time WebGL origami simulator app allowing interactive folding and simulation of origami and crease patterns.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

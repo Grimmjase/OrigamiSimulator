@@ -263,7 +263,7 @@ function initControls(globals){
              globals.warn("Video export not supported by this browser, please try again " +
                 "with the latest version of Google Chrome.");
           };
-          img.src = '../assets/support/test.webp';
+          img.src = 'assets/support/test.webp';
         })();
 
     });
